@@ -1,10 +1,10 @@
 {
   "pack": {
-    "description": "A pixel artist's rendition of Minecraft, high contrast and lowly busy.",
+    "description": "A pixel artist's rendition of Minecraft, high contrast and lowly busy. §5Made by Jamesthe1.",
     "pack_format": 46,
-    "supported_formats": [
-      34,
-      46
-    ]
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 46
+    }
   }
 }
