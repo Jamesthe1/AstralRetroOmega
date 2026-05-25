@@ -1,0 +1,1 @@
+AstralRetrOMEGA Resource Pack © 2026 by Jamesthe1 is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) ![Creative Commons symbol](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![Attribution symbol](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![Non-Commercial symbol](https://mirrors.creativecommons.org/presskit/icons/nc.svg)
